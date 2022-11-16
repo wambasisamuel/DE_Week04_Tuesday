@@ -1,0 +1,14 @@
+employee_id - Unique ID for employee
+department - Department of employee
+region - Region of employment (unordered)
+education - Education Level
+gender - Gender of Employee
+recruitment_channel - Channel of recruitment for employee
+"nooftrainings - no of other trainings completed in previous year on soft skills, technical skills etc."
+age - Age of Employee
+previousyearrating - Employee Rating for the previous year
+lengthofservice - Length of service in years
+KPIs_met >80% - if Percent of KPIs(Key performance Indicators) >80% then 1 else 0
+awards_won? - if awards won during previous year then 1 else 0
+avgtrainingscore - Average score in current training evaluations
+is_promoted (Target) Recommended for promotion
